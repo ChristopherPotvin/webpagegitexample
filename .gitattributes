@@ -1,2 +1,30 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<doctype! <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Super Food Beets</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<style>
+    #h1 { font-size= 80%;
+        font-style= italic;
+        font-family= Arial;
+    }
+
+    body {
+    background-image: src="gitphotos/beets1.jpg";
+    }
+   
+</style>
+<header>
+    Beets are awesome
+<h1>
+    Can you get any beeter than beets? Why beets are the new super food.
+</h1>
+<body>
+    
+</body>
+</html>
